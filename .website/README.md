@@ -1,4 +1,7 @@
 ---
+genres:
+  - roguelike
+  - strategy
 video: https://youtu.be/sanL94Xga8g
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
